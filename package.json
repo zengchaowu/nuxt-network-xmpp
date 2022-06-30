@@ -7,7 +7,7 @@
     "init-network-xmpp": "bin/setup.js"
   },
   "dependencies": {
-    "@doraemon-module/nuxt-functions": "^1.0.1",
+    "@doraemon-module/nuxt-functions": "^1.0.4",
     "lodash.isnil": "^4.0.0"
   },
   "peerDependencies": {
