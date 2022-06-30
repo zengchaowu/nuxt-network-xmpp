@@ -4,6 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@doraemon-module/nuxt-functions": "^1.0.1"
+    "@doraemon-module/nuxt-functions": "^1.0.1",
+    "lodash.isnil": "^4.0.0"
+  },
+  "peerDependencies": {
+    "strophe.js": "^1.5.0"
+  },
+  "devDependencies": {
+    "strophe.js": "^1.5.0"
   }
 }

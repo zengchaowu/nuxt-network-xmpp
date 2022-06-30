@@ -17,5 +17,8 @@ export default async () => {
     path.join(__dirname, "lib", "disconnect.js"),
     path.join(xmpp, "disconnect.js")
   );
-  copy(path.join(__dirname, "lib", "hook.js"), path.join(xmpp, "hook.js"));
+  copy(
+    path.join(__dirname, "lib", "createConnection.js"),
+    path.join(xmpp, "createConnection.js")
+  );
 };
