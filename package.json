@@ -1,5 +1,5 @@
 {
-  "name": "@doraemon-module/nuxt-network-http",
+  "name": "@doraemon-module/nuxt-network-xmpp",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
