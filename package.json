@@ -3,9 +3,6 @@
   "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
-  "bin": {
-    "init-network-xmpp": "bin/setup.js"
-  },
   "dependencies": {
     "@doraemon-module/nuxt-functions": "^1.0.5",
     "lodash.isnil": "^4.0.0"
